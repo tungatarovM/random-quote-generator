@@ -1,0 +1,19 @@
+{
+  "name": "randome-quote",
+  "version": "1.0.0",
+  "description": "Quote from greatest stoich philosophers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungatarovM/random-quote-generator.git"
+  },
+  "author": "tungatarovM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tungatarovM/random-quote-generator/issues"
+  },
+  "homepage": "https://github.com/tungatarovM/random-quote-generator#readme"
+}
